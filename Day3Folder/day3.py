@@ -22,6 +22,7 @@ print("hello from day3")
 ########################################################################
 # Task 3:
 person1 = input("what is person a's name? ")
+person2 = input("what is person b's name? ")
                 
 
 
