@@ -4,7 +4,10 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-
+print("Loop Start")
+for i in range(100):
+    print ("i will not sling mud at my friends again.")
+print("Loop End")
 
 
 ########################################################################
