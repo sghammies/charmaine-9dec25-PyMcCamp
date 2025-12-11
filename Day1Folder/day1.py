@@ -15,7 +15,7 @@
 
 ########################################################################
 # Task 3:
-animal1 = hamster
+animal1 = "hamster"
 animal2 = bunny
 animal3 = bambi
 print(animal1)
