@@ -23,7 +23,7 @@ print("hello from day3")
 # Task 3:
 person1 = input("what is person a's age? ")
 person2 = input("what is person b's age? ")
-if int(person1) > (person2):
+if int(person1) > int(person2):
     print("person a is older")
 else:
     print("person b is older")
