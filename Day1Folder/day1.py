@@ -18,7 +18,9 @@
 animal1 = hamster
 animal2 = bunny
 animal3 = bambi
-print()
+print(animal1)
+print(animal2)
+print(animal3)
 
 ########################################################################
 # Task 4:
