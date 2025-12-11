@@ -17,7 +17,8 @@
 # Task 3:
 animal1 = hamster
 animal2 = bunny
-animal3 = 
+animal3 = bambi
+print()
 
 ########################################################################
 # Task 4:
