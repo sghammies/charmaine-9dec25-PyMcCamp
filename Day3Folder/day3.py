@@ -12,15 +12,16 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-num1 = input("what is your first number? ")
-num2 = input("what is your second number? ")
-ans = int(num1) + int(num2) 
-print(num1 + " + " + num2 + " = " + str(ans))
+# num1 = input("what is your first number? ")
+# num2 = input("what is your second number? ")
+# ans = int(num1) + int(num2) 
+# print(num1 + " + " + num2 + " = " + str(ans))
 
 
 
 ########################################################################
 # Task 3:
+
 
 
 
